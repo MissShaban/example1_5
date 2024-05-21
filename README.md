@@ -18,6 +18,6 @@ System.out.println("exp("+d1+") = + Math.exp(d1)); System.out.println("Generate 
 for(int i = 1; i <= 5; i++)
 {
 num = (int) (5*Math.random());
-System.out.print
-("num"+i+"="+num+"\t");
+System.out.print("num"+i+"="+num+"\t");
+
 }
